@@ -1,9 +1,10 @@
 ## Will work for food 💻 Hire me!
-🧑🏻‍💻 Currently looking for work
 
-- 🌎 The answer to everything is 42
-- 📚 Learning something new about programming or/and math everyday
-- 💪🏻 Gym everyday to keep the mind active
+- 🧑🏻‍💻 I am currently seeking new career opportunities. (Front-end, React JS/Native)
+- 🌎 The answer to life and everything is 42.
+- 📚 I make it a point to learn something new about programming and mathematics every day.
+- 💪🏻 I maintain a daily gym routine to keep both my body and mind active.
+- 🧘🏻 Maintaining a clear and positive mindset daily is of utmost importance to me.
 
 
 <!--
