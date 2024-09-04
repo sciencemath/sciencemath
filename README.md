@@ -1,9 +1,10 @@
-## Hi there 👋
+## Will work for food 💻 Hire me!
+🧑🏻‍💻 Currently looking for work
 
 - 🌎 The answer to everything is 42
 - 📚 Learning something new about programming or/and math everyday
 - 💪🏻 Gym everyday to keep the mind active
-- 🧑🏻‍💻 Currently looking for work
+
 
 <!--
 **sciencemath/sciencemath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
