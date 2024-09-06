@@ -1,4 +1,4 @@
-## Will work for food 💻 Hire me!
+## Hello There! Welcome 👋🏻
 
 - 🧑🏻‍💻 I am currently seeking new career opportunities. (Front-end, React JS/Native)
 - 🌎 The answer to life and everything is 42.
