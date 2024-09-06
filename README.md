@@ -5,12 +5,12 @@
 - 📚 I make it a point to learn something new about programming and mathematics every day.
 - 💪🏻 I maintain a daily gym routine to keep both my body and mind active.
 - 🧘🏻 Maintaining a clear and positive mindset daily is of utmost importance to me.
-
+- ✈️ Attended college in Santa Monica, California; currently residing in Florida.
 
 <!--
 **sciencemath/sciencemath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Hereare some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
