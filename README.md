@@ -1,6 +1,6 @@
 ## Hello There! Welcome 👋🏻
 
-- 🧑🏻‍💻 I am actively pursuing new career opportunities in front-end development, specifically with expertise in React JS and React Native.
+- 🧑🏻‍💻 I am actively pursuing new career opportunities in front-end development, specifically with expertise in React JS/Native.
 - 📱 I eliminate all distractions, avoid social media, and limit phone usage to once per day.
 - 📚 I make it a priority to acquire new knowledge in programming and mathematics on a daily basis.
 - 💪🏻 I adhere to a daily gym routine to ensure both my body and mind remain active and engaged.
