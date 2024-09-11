@@ -1,4 +1,4 @@
-## Hello There! Welcome 👋🏻
+## Study, think, create, and grow.
 
 - 🧑🏻‍💻 I am actively pursuing new career opportunities in front-end development, specifically with expertise in React JS/Native.
 - 📱 I eliminate all distractions, avoid social media, and limit phone usage to once per day.
