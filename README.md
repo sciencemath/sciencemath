@@ -1,13 +1,13 @@
 # Study, think, create, and grow. 🌱
 
 - 🧑🏻‍💻 I am actively pursuing new career opportunities in front-end development, specifically with expertise in React JS/Native.
-- 📱 I eliminate all distractions, avoid social media, and limit phone usage to once per day.
+- 📱 I eliminate all distractions, avoid social media.
 - 📚 I make it a priority to acquire new knowledge in programming and mathematics on a daily basis.
-- 💪🏻 I adhere to a daily gym routine to ensure both my body and mind remain active and engaged.
+- 💪🏻 30min resistance 30min cardio daily to ensure both my body and mind remain active and engaged.
 - 🧘🏻 Maintaining a clear and positive mindset on a daily basis is of utmost importance to me.
 - ✈️ Attended college in Santa Monica, California; currently residing in Florida.
 - ⛵️ A fun fact about me is that I hold a sailing license.
-- 🌎 The answer to the ultimate question of life, the universe, and everything is 42.
+- 𝑓(x) Mathematics is the science of sctructure.
 
 <!--
 **sciencemath/sciencemath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
