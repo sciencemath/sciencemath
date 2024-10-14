@@ -1,12 +1,8 @@
 # Study, think, create, and grow. 🌱
 
-- 🧑🏻‍💻 I am actively pursuing new career opportunities in front-end development, specifically with expertise in React JS/Native.
-- 📱 I eliminate all distractions, avoid social media.
-- 📚 I make it a priority to acquire new knowledge in programming and mathematics on a daily basis.
-- 💪🏻 30min resistance 30min cardio daily to ensure both my body and mind remain active and engaged.
-- 🧘🏻 Maintaining a clear and positive mindset on a daily basis is of utmost importance to me.
-- ✈️ Attended college in Santa Monica, California; currently residing in Florida.
-- ⛵️ A fun fact about me is that I hold a sailing license.
+- 🧑🏻‍💻 I am actively pursuing new career opportunities in front-end development, with expertise in React JS/Native.
+- 📚 I make it a priority to study programming and mathematics on a daily basis, theres always something to learn.
+- 💪🏻 30min resistance 30min cardio daily (if I am not pushing my mind and body everyday i've wasted a day).
 - 𝑓(x) Mathematics is the science of sctructure.
 
 <!--
