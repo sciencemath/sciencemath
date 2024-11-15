@@ -1,6 +1,7 @@
 # Study, think, create, and grow. 🌱
 
 - 🧑🏻‍💻 I am actively pursuing new career opportunities in front-end development, with expertise in React JS/Native.
+  * I've had many github/gitlab accounts, I am keeping this one as my main personal
 - 📚 I make it a priority to study programming and mathematics on a daily basis.
 - 💪🏻 30min resistance 30min cardio daily.
 - 𝑓(x) Mathematics is the science of sctructure.
