@@ -1,7 +1,7 @@
 # Study, think, create, and grow. 🌱
 
 - 🧑🏻‍💻 I am actively pursuing new career opportunities in front-end/fullstack development
-- 🍕 Expertise in Javascript, React, Python.
+- 🧠 Expertise in Javascript, React, Python.
 - 📚 I make it a priority to study programming and mathematics on a daily basis.
 - 💪🏻 30min resistance 30min cardio daily. (5k run every other day)
 - 𝑓(x) Mathematics is the science of sctructure.
